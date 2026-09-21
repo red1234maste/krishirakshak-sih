@@ -1,0 +1,15 @@
+{
+  "name": "krishirakshak-root",
+  "version": "1.0.0",
+  "description": "KrishiRakshak — AI-Powered Crop Disease & Pest Early Warning System (SIH 2026)",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "ai": "cd ai_service && python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

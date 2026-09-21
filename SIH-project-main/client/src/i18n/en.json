@@ -1,0 +1,117 @@
+{
+  "app": {
+    "title": "KrishiRakshak",
+    "tagline": "AI-Powered, Smartphone-Independent Crop Disease & Pest Early Warning System",
+    "slogan": "Protecting every harvest — Smartphone is optional, not a requirement",
+    "theme": "SIH 2026 Problem Statement SIH26131",
+    "kisanHelpline": "Kisan Suraksha Helpline"
+  },
+  "nav": {
+    "home": "Home",
+    "farmerPortal": "Farmer Advisory",
+    "aiStudio": "AI Disease Scan",
+    "agriMitra": "Agri Mitra / CSC",
+    "officerDashboard": "Officer Command",
+    "gisMap": "GIS Risk Map",
+    "analytics": "Outbreak Trends",
+    "ivrDemo": "IVR Phone Simulator",
+    "admin": "Admin Settings",
+    "login": "Login",
+    "logout": "Logout",
+    "switchRole": "Switch Demo Role"
+  },
+  "helpline": {
+    "title": "Toll-Free Kisan Suraksha Helpline",
+    "number": "1800-180-1551",
+    "badge": "24x7 Toll-Free Call Centre",
+    "callNow": "Call Toll-Free",
+    "disclaimer": "Demo / Prototype National Farmer Advisory Hotline"
+  },
+  "channels": {
+    "title": "5 Inclusive Channels — Accessible to Every Farmer",
+    "subtitle": "High-tech AI intelligence coupled with zero-tech access channels",
+    "ivrTitle": "Interactive Voice Response (IVR)",
+    "ivrDesc": "Keypad phone menu in Hindi & Marathi for basic keypad phones.",
+    "missedCallTitle": "Missed Call Callback",
+    "missedCallDesc": "Give a missed call to receive an automated voice advisory callback in 15 seconds.",
+    "smsTitle": "Localized SMS Alerts",
+    "smsDesc": "Early outbreak warnings delivered in preferred regional language.",
+    "agriMitraTitle": "Agri Mitra / CSC Village Centers",
+    "agriMitraDesc": "Village field workers scan leaves and enter symptoms for farmers without smartphones.",
+    "webTitle": "PWA & Web Command Center",
+    "webDesc": "Real-time GIS surveillance, AI diagnostics, and officer verification workflow."
+  },
+  "farmer": {
+    "myCrops": "My Registered Crops",
+    "currentRisk": "Current Outbreak Risk Level",
+    "riskLevel": "Risk Level",
+    "weatherAlert": "Live Weather Advisory",
+    "recentSms": "Recent SMS Alert Inbox",
+    "listenVoice": "Listen to Voice Advisory",
+    "reportSymptoms": "Report Symptoms to Officer",
+    "needAssistance": "Need immediate crop assistance? Call toll-free",
+    "noSmartphoneNeeded": "You don't need a smartphone to receive timely warnings!"
+  },
+  "ai": {
+    "scanTitle": "AI Crop Leaf Diagnostic Studio",
+    "scanSubtitle": "OpenCV Lesion Feature Extraction + Deep Learning Disease Prediction",
+    "uploadPhoto": "Upload or Capture Leaf Photo",
+    "chooseCrop": "Select Crop Type",
+    "runDiagnosis": "Run AI Diagnosis",
+    "analyzing": "Analyzing leaf contours & fungal lesions...",
+    "predictionTitle": "AI Diagnostic Assessment",
+    "confidence": "AI Confidence",
+    "riskSeverity": "Risk Severity",
+    "symptoms": "Identified Symptoms",
+    "recommendedTreatment": "Recommended Integrated Pest Management (IPM)",
+    "safetyBadge": "AI PREDICTION — PENDING AGRICULTURE OFFICER VERIFICATION",
+    "safetyWarning": "Strict Safety Principle: AI prediction is assistive only. Always await Officer verification or consult Kisan Helpline before chemical spraying."
+  },
+  "officer": {
+    "commandCenter": "District Agriculture Officer Command Center",
+    "pendingVerifications": "Pending Field Verifications",
+    "highRiskVillages": "High-Risk Outbreak Zones",
+    "activeAlerts": "Active Emergency Broadcasts",
+    "totalFarmers": "Monitored Farmers",
+    "verifiedCases": "Verified Cases",
+    "reviewCase": "Review & Verify Case",
+    "approveDiagnosis": "Approve & Prescribe Treatment",
+    "rejectCase": "Reject / Request Rescan",
+    "broadcastAlert": "Broadcast SMS to Village Radius",
+    "prescriptionLabel": "Official Agriculture Officer Prescription",
+    "verifiedBadge": "VERIFIED BY OFFICER"
+  },
+  "agriMitra": {
+    "title": "Agri Mitra / CSC Village Worker Portal",
+    "subtitle": "Assisting non-smartphone farmers with field onboarding and AI leaf diagnosis",
+    "onboardFarmer": "Register New Offline Farmer",
+    "farmerName": "Farmer Full Name",
+    "farmerPhone": "Mobile Phone Number",
+    "village": "Village / Panchayat",
+    "crop": "Primary Crop",
+    "landSize": "Land Size (Acres)",
+    "preferredLang": "Preferred SMS / Voice Language",
+    "submitRegistration": "Register Farmer into KrishiRakshak",
+    "recentVisits": "Recent Field Inspections"
+  },
+  "gis": {
+    "title": "GIS Outbreak Risk Heatmap",
+    "subtitle": "Real-time spatial monitoring of villages and farm plots",
+    "legendLow": "Low Risk (<40%)",
+    "legendMedium": "Medium Risk (40-70%)",
+    "legendHigh": "High Risk (>70% 🚨)",
+    "villageDetails": "Village Risk Profile",
+    "simulateWeather": "Simulate Outbreak Surge"
+  },
+  "common": {
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "success": "Success",
+    "error": "Error",
+    "demoMode": "Demo Mode Active",
+    "refresh": "Refresh Data"
+  }
+}
